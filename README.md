@@ -30,6 +30,7 @@
 - To run app, write following command in CMD. or use any IDE.
   ```
   streamlit run App.py
+  python -m streamlit run App.py
   ```
 - `Movie_Data_Processing.ipynb` is the notebook of data processing.
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
