@@ -90,7 +90,7 @@ def run():
             - Fetch movie posters and details from IMDb.
             '''
         )
-        st.markdown("### Made with ❤️ ")
+        st.markdown("### Made with ❤️ by Sakshi ")
 
     st.title("🎬 Welcome to the Movie Recommender System")
     st.markdown("Your personal movie discovery assistant!")
